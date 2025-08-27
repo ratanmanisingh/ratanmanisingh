@@ -48,9 +48,7 @@
 ---
 
 ### 📊 GitHub Stats
-
-<p><img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ratanmanisingh&show_icons=true&locale=en&layout=compact&theme=radical" alt="ratanmanisingh"/></p>
+<p><img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ratanmanisingh&show_icons=true&locale=en&layout=compact&theme=radical" alt="ratanmanisingh" /></p>
 
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=ratanmanisingh&show_icons=true&locale=en&theme=radical" alt="ratanmanisingh" /></p>
 
-![ratanmanisingh](https://github-readme-streak-stats.herokuapp.com/?user=ratanmanisingh&theme=dark&hide_border=false)<br/>
