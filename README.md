@@ -11,8 +11,8 @@
 
 ### 🌱 I’m currently learning
 -🐍Python
-- </>HTML, 🎨CSS
-- ✨JavaScript
+-</>HTML, 🎨CSS
+-✨JavaScript
 
 #### 📫 How to reach me ratanmanisingh553@gmail.com
 
