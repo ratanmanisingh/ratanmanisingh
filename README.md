@@ -10,9 +10,9 @@
 ---
 
 ### 🌱 I’m currently learning
-- 🧠 Python
-- JavaScript
-- 🚀 HTML, CSS
+-🐍Python
+- </>HTML, 🎨CSS
+- ✨JavaScript
 
 #### 📫 How to reach me ratanmanisingh553@gmail.com
 
