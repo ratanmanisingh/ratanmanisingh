@@ -52,3 +52,5 @@
 
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=ratanmanisingh&show_icons=true&locale=en&theme=radical" alt="ratanmanisingh" /></p>
 
+![Ratanmani Singh](https://github-readme-streak-stats.herokuapp.com/?user=ratanmanisingh&theme=dark&hide_border=false)<br/>
+
