@@ -66,5 +66,6 @@
 
 ![Ratanmani Singh](https://github-readme-streak-stats.herokuapp.com/?user=ratanmanisingh&theme=dark&hide_border=false)<br/>
 
-
+### 🐍 GitHub Contribution
+<img src="https://raw.githubusercontent.com/ratanmanisingh/ratanmanisingh/output/snake.svg" alt="Snake animation" />
 
