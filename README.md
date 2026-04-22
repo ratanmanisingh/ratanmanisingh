@@ -32,25 +32,26 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🛠️ Tech Stack
+
 <p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
-<img width="32" height="32" alt="icons8-c-programming-32" src="https://github.com/user-attachments/assets/aee508dd-a106-4eeb-a68d-229bb8dc88f6" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/> 
-<img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS" width="40" height="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="40" style="vertical-align: middle;"/> 
+  <img src="https://github.com/user-attachments/assets/aee508dd-a106-4eeb-a68d-229bb8dc88f6" alt="C" height="40" style="vertical-align: middle;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" height="40" style="vertical-align: middle;"/> 
+  <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS" height="40" style="vertical-align: middle;"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" height="40" style="vertical-align: middle;"/> 
 </p>
 
 **Tools & Platforms:**  
 <p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/> 
-<img src="https://cdn.worldvectorlogo.com/logos/github-icon-2.svg" alt="GitHub" width="40" height="40"/> 
-<img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" alt="Excel" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="40" style="vertical-align: middle;"/> 
+  <img src="https://cdn.worldvectorlogo.com/logos/github-icon-2.svg" alt="GitHub" height="40" style="vertical-align: middle;"/> 
+  <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" alt="Excel" height="40" style="vertical-align: middle;"/> 
 </p>
 
 <h2>Databases:</h2>
 <p>
-  <img width="50" height="50" alt="icons8-sql-96" src="https://github.com/user-attachments/assets/a67db856-d174-459d-ae72-dfa435725871" />
-  <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="postgresql" width="45" height="45"/>
+  <img  height="50" alt="icons8-sql-96" src="https://github.com/user-attachments/assets/a67db856-d174-459d-ae72-dfa435725871" />
+  <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="postgresql" height="45"/>
 
 </p>
 
