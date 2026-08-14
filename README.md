@@ -13,6 +13,7 @@
 
 - </>HTML, 🎨CSS
 - ✨JavaScript
+- React
 
 #### 📫 How to reach me ratanmanisingh553@gmail.com
 
