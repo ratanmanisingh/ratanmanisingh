@@ -1,22 +1,22 @@
-<h1 align="center">👋 Hello World! I'm Ratanmani Singh</h1>
-<h3 align="center"> Aspiring Software Developer | 💻 Coding Enthusiast</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ratanmanisingh&label=Profile%20views&color=0e75b6&style=flat" alt="ratanmanisingh" />
-<a href="https://github.com/ratanmanisingh?tab=followers">
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/ratanmanisingh?label=Followers&style=social">
-  </a>
-</p>
+# 👋 Hi — I’m Ratanmani Singh
+
+Aspiring Full‑Stack Software Developer focused on building clean, well-documented web applications and improving problem-solving skills through DSA. I value readable code, practical tests, and steady learning.
+
+- 🔭 Currently: building projects with JavaScript and React; improving backend APIs  
+- 🌱 Learning: Data Structures & Algorithms (DSA), React, systems design  
+- 📫 Reach me: ratanmanisingh553@gmail.com  
+- 🔗 LinkedIn: https://www.linkedin.com/in/ratanmani-singh
 
 ---
 
-### 🌱 I’m currently learning
-- 🐍Python, C , C++
+## What I do
+I build small-to-medium web applications and developer tooling that emphasize clarity and maintainability. I like to ship working demos, add tests for core behavior, and write concise READMEs so others can run and contribute quickly.
 
-- </>HTML, 🎨CSS
-- ✨JavaScript
-- React
-
-#### 📫 How to reach me ratanmanisingh553@gmail.com
-
+## Skills & Technologies
+- Languages: Python · JavaScript · C · C++  
+- Frontend: HTML · CSS · React  
+- Databases: PostgreSQL  
+- Tools: Git · GitHub · CI/CD
 ---
 
 ### 📬 Let's Connect!
