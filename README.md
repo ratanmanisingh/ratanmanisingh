@@ -69,5 +69,10 @@
 ![Ratanmani Singh](https://github-readme-streak-stats.herokuapp.com/?user=ratanmanisingh&theme=dark&hide_border=false)<br/>
 
 ### 🐍 GitHub Contribution
-<img src="https://raw.githubusercontent.com/ratanmanisingh/ratanmanisingh/output/snake.svg" alt="Snake animation" />
+<img src="./output/snake.svg" alt="Snake animation" />
 
+<p><em>Note: This animation is generated automatically by a scheduled GitHub Action (see .github/workflows/snake.yml).</em></p>
+
+<p align="center"><strong>Profile README refreshed — small update to trigger GitHub re-indexing.</strong></p>
+
+<!-- force-refresh: 2026-08-22T15:37:30Z -->
