@@ -60,6 +60,9 @@
 ---
 
 ### 📊 GitHub Stats
+
+### 🐍 GitHub Contribution
+<img src="https://raw.githubusercontent.com/ratanmanisingh/ratanmanisingh/output/snake.svg" alt="Snake animation" />
 <!-- <p><img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ratanmanisingh&show_icons=true&locale=en&layout=compact&theme=radical" alt="ratanmanisin[...]
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ratanmanisingh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
