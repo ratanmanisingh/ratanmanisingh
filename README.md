@@ -1,22 +1,22 @@
-# 👋 Hi — I’m Ratanmani Singh
-
-Aspiring Full‑Stack Software Developer focused on building clean, well-documented web applications and improving problem-solving skills through DSA. I value readable code, practical tests, and steady learning.
-
-- 🔭 Currently: building projects with JavaScript and React; improving backend APIs  
-- 🌱 Learning: Data Structures & Algorithms (DSA), React, systems design  
-- 📫 Reach me: ratanmanisingh553@gmail.com  
-- 🔗 LinkedIn: https://www.linkedin.com/in/ratanmani-singh
+<h1 align="center">👋 Hello World! I'm Ratanmani Singh</h1>
+<h3 align="center"> Aspiring Software Developer | 💻 Coding Enthusiast</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ratanmanisingh&label=Profile%20views&color=0e75b6&style=flat" alt="ratanmanisingh" />
+<a href="https://github.com/ratanmanisingh?tab=followers">
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/ratanmanisingh?label=Followers&style=social">
+  </a>
+</p>
 
 ---
 
-## What I do
-I build small-to-medium web applications and developer tooling that emphasize clarity and maintainability. I like to ship working demos, add tests for core behavior, and write concise READMEs so others can run and contribute quickly.
+### 🌱 I’m currently learning
+- 🐍 Python, C, C++
+- 📘 Data Structures & Algorithms (DSA)
+- </> HTML, 🎨 CSS
+- ✨ JavaScript
+- ⚛️ React
 
-## Skills & Technologies
-- Languages: Python · JavaScript · C · C++  
-- Frontend: HTML · CSS · React  
-- Databases: PostgreSQL  
-- Tools: Git · GitHub · CI/CD
+#### 📫 How to reach me ratanmanisingh553@gmail.com
+
 ---
 
 ### 📬 Let's Connect!
@@ -60,16 +60,14 @@ I build small-to-medium web applications and developer tooling that emphasize cl
 ---
 
 ### 📊 GitHub Stats
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=ratanmanisingh&show_icons=true&count_private=true&theme=dark" alt="Ratanmani Singh's GitHub stats" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ratanmanisingh&layout=compact&theme=dark" alt="Top Languages" />
+</p>
+<br style="clear:both;"/>
 
-### 🐍 GitHub Contribution
-<img src="https://raw.githubusercontent.com/ratanmanisingh/ratanmanisingh/output/snake.svg" alt="Snake animation" />
-<!-- <p><img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ratanmanisingh&show_icons=true&locale=en&layout=compact&theme=radical" alt="ratanmanisin[...]
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ratanmanisingh&theme=dark)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ratanmanisingh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=ratanmanisingh&show_icons=true&locale=en&theme=radical" alt="ratanmanisingh" /></p>
-
-![Ratanmani Singh](https://github-readme-streak-stats.herokuapp.com/?user=ratanmanisingh&theme=dark&hide_border=false)<br/>
 
 ### 🐍 GitHub Contribution
 <img src="./output/snake.svg" alt="Snake animation" />
