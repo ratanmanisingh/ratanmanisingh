@@ -60,14 +60,6 @@
 ---
 
 ### 📊 GitHub Stats
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=ratanmanisingh&show_icons=true&count_private=true&theme=dark" alt="Ratanmani Singh's GitHub stats" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ratanmanisingh&layout=compact&theme=dark" alt="Top Languages" />
-</p>
-<br style="clear:both;"/>
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ratanmanisingh&theme=dark)
-
 
 ### 🐍 GitHub Contribution
 <img src="./output/snake.svg" alt="Snake animation" />
