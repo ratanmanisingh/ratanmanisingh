@@ -9,9 +9,6 @@ Aspiring Full‑Stack Software Developer focused on building clean, well-documen
 
 ---
 
-## What I do
-I build small-to-medium web applications and developer tooling that emphasize clarity and maintainability. I like to ship working demos, add tests for core behavior, and write concise READMEs so others can run and contribute quickly.
-
 ## Skills & Technologies
 - Languages: Python · JavaScript · C · C++  
 - Frontend: HTML · CSS · React  
@@ -32,7 +29,8 @@ I build small-to-medium web applications and developer tooling that emphasize cl
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🛠️ Tech Stack
-
+---
+<h2>Programming Language:</h2>
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="40" style="vertical-align: middle;"/> 
   <img src="https://github.com/user-attachments/assets/aee508dd-a106-4eeb-a68d-229bb8dc88f6" alt="C" height="40" style="vertical-align: middle;"/>
@@ -42,7 +40,7 @@ I build small-to-medium web applications and developer tooling that emphasize cl
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" height="40" style="vertical-align: middle;"/> 
 </p>
 
-**Tools & Platforms:**  
+<h2>Tools & Platforms:</h2>  
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="40" style="vertical-align: middle;"/> 
   <img src="https://cdn.worldvectorlogo.com/logos/github-icon-2.svg" alt="GitHub" height="40" style="vertical-align: middle;"/> 
@@ -59,23 +57,15 @@ I build small-to-medium web applications and developer tooling that emphasize cl
 
 ---
 
-### 📊 GitHub Stats
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ratanmanisingh&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="ratanmanisingh GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ratanmanisingh&theme=radical&hide_border=false" alt="ratanmanisingh GitHub Streak" />
+</p> 
 
 ### 🐍 GitHub Contribution
 <img src="https://raw.githubusercontent.com/ratanmanisingh/ratanmanisingh/output/snake.svg" alt="Snake animation" />
-<!-- <p><img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ratanmanisingh&show_icons=true&locale=en&layout=compact&theme=radical" alt="ratanmanisin[...]
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ratanmanisingh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=ratanmanisingh&show_icons=true&locale=en&theme=radical" alt="ratanmanisingh" /></p>
-
-![Ratanmani Singh](https://github-readme-streak-stats.herokuapp.com/?user=ratanmanisingh&theme=dark&hide_border=false)<br/>
-
-### 🐍 GitHub Contribution
-<img src="./output/snake.svg" alt="Snake animation" />
-
-<p><em>Note: This animation is generated automatically by a scheduled GitHub Action (see .github/workflows/snake.yml).</em></p>
-
-<p align="center"><strong>Profile README refreshed — small update to trigger GitHub re-indexing.</strong></p>
-
-<!-- force-refresh: 2026-08-22T15:37:30Z -->
