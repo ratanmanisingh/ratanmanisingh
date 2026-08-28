@@ -7,6 +7,7 @@ Aspiring Full‑Stack Software Developer focused on building clean, well-documen
 - 📫 Reach me: ratanmanisingh553@gmail.com  
 - 🔗 LinkedIn: https://www.linkedin.com/in/ratanmani-singh
 
+
 ---
 
 ## Skills & Technologies
