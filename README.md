@@ -13,7 +13,7 @@ Aspiring Full‑Stack Software Developer focused on building clean, well-documen
 ## Skills & Technologies
 - Languages: Python · JavaScript · C · C++  
 - Frontend: HTML · CSS · React  
-- Databases: PostgreSQL  
+- Databases: Sql,PostgreSQL  
 - Tools: Git · GitHub · CI/CD
 ---
 
