@@ -1,5 +1,13 @@
-# 👋 Hi — I’m Ratanmani Singh
+<h1 align="center">👋 Hey Everyone! I'm Ratanmani Singh</h1>
+<h3 align="center"> Aspiring Full-Stack Software Developer | 💻 Coding Enthusiast</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ratanmanisingh&label=Profile%20views&color=0e75b6&style=flat" alt="ratanmanisingh" /> 
+<a href="https://github.com/ratanmanisingh?tab=followers">
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/ratanmanisingh?label=Followers&style=social">
+  </a>
+</p>
 
+---
+### 🚀 About Me
 Aspiring Full‑Stack Software Developer focused on building clean, well-documented web applications and improving problem-solving skills through DSA. I value readable code, practical tests, and steady learning.
 
 - 🔭 Currently: building projects with JavaScript and React; improving backend APIs  
