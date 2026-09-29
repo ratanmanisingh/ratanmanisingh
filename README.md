@@ -31,7 +31,7 @@ Aspiring Full‑Stack Software Developer focused on building clean, well-documen
 
 ---
 ### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ratanmanisingh&theme=onedark&no-frame=true&no-bg=true&margin-w=4)fdaff
+![](https://github-profile-trophy.vercel.app/?username=ratanmanisingh&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
 
 ---
 ### ✍️ Dev Quote
