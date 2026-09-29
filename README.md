@@ -22,6 +22,7 @@ Aspiring Full‑Stack Software Developer focused on building clean, well-documen
 - Frontend: HTML · CSS · React  
 - Databases: Sql,PostgreSQL  
 - Tools: Git · GitHub · CI/CD
+
 ---
 
 ### 📬 Let's Connect!
